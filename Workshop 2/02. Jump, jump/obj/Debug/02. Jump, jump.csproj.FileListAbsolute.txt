@@ -1,0 +1,6 @@
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Workshop 2\02. Jump, jump\bin\Debug\_02.Jump__jump.exe.config
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Workshop 2\02. Jump, jump\bin\Debug\_02.Jump__jump.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Workshop 2\02. Jump, jump\bin\Debug\_02.Jump__jump.pdb
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Workshop 2\02. Jump, jump\obj\Debug\02. Jump, jump.csprojResolveAssemblyReference.cache
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Workshop 2\02. Jump, jump\obj\Debug\_02.Jump__jump.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Workshop 2\02. Jump, jump\obj\Debug\_02.Jump__jump.pdb

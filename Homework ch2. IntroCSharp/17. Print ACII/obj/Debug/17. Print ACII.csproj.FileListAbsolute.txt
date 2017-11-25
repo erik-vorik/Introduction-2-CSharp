@@ -1,0 +1,5 @@
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Homework ch2. IntroCSharp\17. Print ACII\bin\Debug\_17.Print_ACII.exe.config
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Homework ch2. IntroCSharp\17. Print ACII\bin\Debug\_17.Print_ACII.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Homework ch2. IntroCSharp\17. Print ACII\bin\Debug\_17.Print_ACII.pdb
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Homework ch2. IntroCSharp\17. Print ACII\obj\Debug\_17.Print_ACII.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Homework ch2. IntroCSharp\17. Print ACII\obj\Debug\_17.Print_ACII.pdb

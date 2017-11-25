@@ -1,0 +1,6 @@
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Workshop 2\04. Mixing numbers\bin\Debug\_04.Mixing_numbers.exe.config
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Workshop 2\04. Mixing numbers\bin\Debug\_04.Mixing_numbers.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Workshop 2\04. Mixing numbers\bin\Debug\_04.Mixing_numbers.pdb
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Workshop 2\04. Mixing numbers\obj\Debug\04. Mixing numbers.csprojResolveAssemblyReference.cache
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Workshop 2\04. Mixing numbers\obj\Debug\_04.Mixing_numbers.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Workshop 2\04. Mixing numbers\obj\Debug\_04.Mixing_numbers.pdb

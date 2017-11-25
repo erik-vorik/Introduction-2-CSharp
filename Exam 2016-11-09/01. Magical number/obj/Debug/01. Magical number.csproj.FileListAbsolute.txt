@@ -1,0 +1,6 @@
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2016-11-09\01. Magical number\bin\Debug\_01.Magical_number.exe.config
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2016-11-09\01. Magical number\bin\Debug\_01.Magical_number.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2016-11-09\01. Magical number\bin\Debug\_01.Magical_number.pdb
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2016-11-09\01. Magical number\obj\Debug\01. Magical number.csprojResolveAssemblyReference.cache
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2016-11-09\01. Magical number\obj\Debug\_01.Magical_number.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2016-11-09\01. Magical number\obj\Debug\_01.Magical_number.pdb

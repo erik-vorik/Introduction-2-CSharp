@@ -1,0 +1,6 @@
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2013-06-23\02. Durnken numbers\bin\Debug\_02.Durnken_numbers.exe.config
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2013-06-23\02. Durnken numbers\bin\Debug\_02.Durnken_numbers.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2013-06-23\02. Durnken numbers\bin\Debug\_02.Durnken_numbers.pdb
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2013-06-23\02. Durnken numbers\obj\Debug\02. Durnken numbers.csprojResolveAssemblyReference.cache
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2013-06-23\02. Durnken numbers\obj\Debug\_02.Durnken_numbers.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2013-06-23\02. Durnken numbers\obj\Debug\_02.Durnken_numbers.pdb

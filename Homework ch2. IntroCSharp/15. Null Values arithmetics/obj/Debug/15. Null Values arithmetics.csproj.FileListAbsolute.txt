@@ -1,0 +1,6 @@
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Homework ch2. IntroCSharp\15. Null Values arithmetics\bin\Debug\_15.Null_Values_arithmetics.exe.config
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Homework ch2. IntroCSharp\15. Null Values arithmetics\bin\Debug\_15.Null_Values_arithmetics.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Homework ch2. IntroCSharp\15. Null Values arithmetics\bin\Debug\_15.Null_Values_arithmetics.pdb
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Homework ch2. IntroCSharp\15. Null Values arithmetics\obj\Debug\15. Null Values arithmetics.csprojResolveAssemblyReference.cache
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Homework ch2. IntroCSharp\15. Null Values arithmetics\obj\Debug\_15.Null_Values_arithmetics.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Homework ch2. IntroCSharp\15. Null Values arithmetics\obj\Debug\_15.Null_Values_arithmetics.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Workshop 2\03. Hidden message\bin\Debug\_03.Hidden_message.exe.config
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Workshop 2\03. Hidden message\bin\Debug\_03.Hidden_message.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Workshop 2\03. Hidden message\bin\Debug\_03.Hidden_message.pdb
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Workshop 2\03. Hidden message\obj\Debug\03. Hidden message.csprojResolveAssemblyReference.cache
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Workshop 2\03. Hidden message\obj\Debug\_03.Hidden_message.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Workshop 2\03. Hidden message\obj\Debug\_03.Hidden_message.pdb

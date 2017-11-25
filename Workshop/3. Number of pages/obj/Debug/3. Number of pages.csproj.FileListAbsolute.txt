@@ -1,0 +1,12 @@
+C:\Users\Kiro_Eli\documents\visual studio 2017\Projects\Workshop\3. Number of pages\bin\Debug\_3.Number_of_pages.exe.config
+C:\Users\Kiro_Eli\documents\visual studio 2017\Projects\Workshop\3. Number of pages\bin\Debug\_3.Number_of_pages.exe
+C:\Users\Kiro_Eli\documents\visual studio 2017\Projects\Workshop\3. Number of pages\bin\Debug\_3.Number_of_pages.pdb
+C:\Users\Kiro_Eli\documents\visual studio 2017\Projects\Workshop\3. Number of pages\obj\Debug\3. Number of pages.csprojResolveAssemblyReference.cache
+C:\Users\Kiro_Eli\documents\visual studio 2017\Projects\Workshop\3. Number of pages\obj\Debug\_3.Number_of_pages.exe
+C:\Users\Kiro_Eli\documents\visual studio 2017\Projects\Workshop\3. Number of pages\obj\Debug\_3.Number_of_pages.pdb
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Workshop\3. Number of pages\bin\Debug\_3.Number_of_pages.exe.config
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Workshop\3. Number of pages\bin\Debug\_3.Number_of_pages.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Workshop\3. Number of pages\bin\Debug\_3.Number_of_pages.pdb
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Workshop\3. Number of pages\obj\Debug\3. Number of pages.csprojResolveAssemblyReference.cache
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Workshop\3. Number of pages\obj\Debug\_3.Number_of_pages.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Workshop\3. Number of pages\obj\Debug\_3.Number_of_pages.pdb

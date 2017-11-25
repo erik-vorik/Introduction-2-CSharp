@@ -1,0 +1,6 @@
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Homework ch2. IntroCSharp\05. CharSymbol\bin\Debug\_05.CharSymbol.exe.config
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Homework ch2. IntroCSharp\05. CharSymbol\bin\Debug\_05.CharSymbol.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Homework ch2. IntroCSharp\05. CharSymbol\bin\Debug\_05.CharSymbol.pdb
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Homework ch2. IntroCSharp\05. CharSymbol\obj\Debug\_05.CharSymbol.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Homework ch2. IntroCSharp\05. CharSymbol\obj\Debug\_05.CharSymbol.pdb
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Homework ch2. IntroCSharp\05. CharSymbol\obj\Debug\05. CharSymbol.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Homework ch2. IntroCSharp\01. DeclaringAndInitializing\bin\Debug\_01.DeclaringAndInitializing.exe.config
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Homework ch2. IntroCSharp\01. DeclaringAndInitializing\bin\Debug\_01.DeclaringAndInitializing.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Homework ch2. IntroCSharp\01. DeclaringAndInitializing\bin\Debug\_01.DeclaringAndInitializing.pdb
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Homework ch2. IntroCSharp\01. DeclaringAndInitializing\obj\Debug\01. DeclaringAndInitializing.csprojResolveAssemblyReference.cache
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Homework ch2. IntroCSharp\01. DeclaringAndInitializing\obj\Debug\_01.DeclaringAndInitializing.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Homework ch2. IntroCSharp\01. DeclaringAndInitializing\obj\Debug\_01.DeclaringAndInitializing.pdb

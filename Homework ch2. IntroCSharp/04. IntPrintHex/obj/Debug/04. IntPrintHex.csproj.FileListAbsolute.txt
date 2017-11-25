@@ -1,0 +1,5 @@
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Homework ch2. IntroCSharp\04. IntPrintHex\bin\Debug\_04.IntPrintHex.exe.config
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Homework ch2. IntroCSharp\04. IntPrintHex\bin\Debug\_04.IntPrintHex.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Homework ch2. IntroCSharp\04. IntPrintHex\bin\Debug\_04.IntPrintHex.pdb
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Homework ch2. IntroCSharp\04. IntPrintHex\obj\Debug\_04.IntPrintHex.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Homework ch2. IntroCSharp\04. IntPrintHex\obj\Debug\_04.IntPrintHex.pdb

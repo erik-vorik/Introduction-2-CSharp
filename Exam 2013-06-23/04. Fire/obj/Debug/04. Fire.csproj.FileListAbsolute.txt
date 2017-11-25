@@ -1,0 +1,6 @@
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2013-06-23\04. Fire\bin\Debug\_04.Fire.exe.config
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2013-06-23\04. Fire\bin\Debug\_04.Fire.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2013-06-23\04. Fire\bin\Debug\_04.Fire.pdb
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2013-06-23\04. Fire\obj\Debug\04. Fire.csprojResolveAssemblyReference.cache
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2013-06-23\04. Fire\obj\Debug\_04.Fire.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2013-06-23\04. Fire\obj\Debug\_04.Fire.pdb

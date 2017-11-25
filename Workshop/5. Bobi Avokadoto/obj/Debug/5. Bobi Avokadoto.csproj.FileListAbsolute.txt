@@ -1,0 +1,6 @@
+C:\Users\Kiro_Eli\documents\visual studio 2017\Projects\Workshop\5. Bobi Avokadoto\bin\Debug\_5.Bobi_Avokadoto.exe.config
+C:\Users\Kiro_Eli\documents\visual studio 2017\Projects\Workshop\5. Bobi Avokadoto\bin\Debug\_5.Bobi_Avokadoto.exe
+C:\Users\Kiro_Eli\documents\visual studio 2017\Projects\Workshop\5. Bobi Avokadoto\bin\Debug\_5.Bobi_Avokadoto.pdb
+C:\Users\Kiro_Eli\documents\visual studio 2017\Projects\Workshop\5. Bobi Avokadoto\obj\Debug\5. Bobi Avokadoto.csprojResolveAssemblyReference.cache
+C:\Users\Kiro_Eli\documents\visual studio 2017\Projects\Workshop\5. Bobi Avokadoto\obj\Debug\_5.Bobi_Avokadoto.exe
+C:\Users\Kiro_Eli\documents\visual studio 2017\Projects\Workshop\5. Bobi Avokadoto\obj\Debug\_5.Bobi_Avokadoto.pdb

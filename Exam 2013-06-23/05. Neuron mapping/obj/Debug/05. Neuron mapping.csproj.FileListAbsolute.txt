@@ -1,0 +1,6 @@
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2013-06-23\05. Neuron mapping\bin\Debug\_05.Neuron_mapping.exe.config
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2013-06-23\05. Neuron mapping\bin\Debug\_05.Neuron_mapping.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2013-06-23\05. Neuron mapping\bin\Debug\_05.Neuron_mapping.pdb
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2013-06-23\05. Neuron mapping\obj\Debug\05. Neuron mapping.csprojResolveAssemblyReference.cache
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2013-06-23\05. Neuron mapping\obj\Debug\_05.Neuron_mapping.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2013-06-23\05. Neuron mapping\obj\Debug\_05.Neuron_mapping.pdb

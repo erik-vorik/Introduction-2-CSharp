@@ -1,0 +1,6 @@
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2016-11-09\04. Merging numbers\bin\Debug\_04.Merging_numbers.exe.config
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2016-11-09\04. Merging numbers\bin\Debug\_04.Merging_numbers.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2016-11-09\04. Merging numbers\bin\Debug\_04.Merging_numbers.pdb
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2016-11-09\04. Merging numbers\obj\Debug\04. Merging numbers.csprojResolveAssemblyReference.cache
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2016-11-09\04. Merging numbers\obj\Debug\_04.Merging_numbers.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2016-11-09\04. Merging numbers\obj\Debug\_04.Merging_numbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2016-11-09\02. Going to a party\bin\Debug\_02.Going_to_a_party.exe.config
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2016-11-09\02. Going to a party\bin\Debug\_02.Going_to_a_party.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2016-11-09\02. Going to a party\bin\Debug\_02.Going_to_a_party.pdb
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2016-11-09\02. Going to a party\obj\Debug\02. Going to a party.csprojResolveAssemblyReference.cache
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2016-11-09\02. Going to a party\obj\Debug\_02.Going_to_a_party.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Exam 2016-11-09\02. Going to a party\obj\Debug\_02.Going_to_a_party.pdb

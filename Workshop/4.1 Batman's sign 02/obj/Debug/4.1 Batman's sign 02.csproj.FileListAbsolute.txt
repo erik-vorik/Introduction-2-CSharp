@@ -1,0 +1,6 @@
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Workshop\4.1 Batman's sign 02\bin\Debug\4.1 Batman's sign 02.exe.config
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Workshop\4.1 Batman's sign 02\bin\Debug\4.1 Batman's sign 02.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Workshop\4.1 Batman's sign 02\bin\Debug\4.1 Batman's sign 02.pdb
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Workshop\4.1 Batman's sign 02\obj\Debug\4.1 Batman's sign 02.csprojResolveAssemblyReference.cache
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Workshop\4.1 Batman's sign 02\obj\Debug\4.1 Batman's sign 02.exe
+C:\Users\Kiro_Eli\Desktop\Prog. apps + Videos  + Problems\My work\Introduction-2-CSharp\Workshop\4.1 Batman's sign 02\obj\Debug\4.1 Batman's sign 02.pdb

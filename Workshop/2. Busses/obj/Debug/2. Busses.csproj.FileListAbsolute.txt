@@ -1,0 +1,6 @@
+C:\Users\Kiro_Eli\documents\visual studio 2017\Projects\Workshop\2. Busses\bin\Debug\_2.Busses.exe.config
+C:\Users\Kiro_Eli\documents\visual studio 2017\Projects\Workshop\2. Busses\bin\Debug\_2.Busses.exe
+C:\Users\Kiro_Eli\documents\visual studio 2017\Projects\Workshop\2. Busses\bin\Debug\_2.Busses.pdb
+C:\Users\Kiro_Eli\documents\visual studio 2017\Projects\Workshop\2. Busses\obj\Debug\2. Busses.csprojResolveAssemblyReference.cache
+C:\Users\Kiro_Eli\documents\visual studio 2017\Projects\Workshop\2. Busses\obj\Debug\_2.Busses.exe
+C:\Users\Kiro_Eli\documents\visual studio 2017\Projects\Workshop\2. Busses\obj\Debug\_2.Busses.pdb

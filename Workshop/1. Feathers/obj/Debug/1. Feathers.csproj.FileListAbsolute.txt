@@ -1,0 +1,6 @@
+c:\users\kiro_eli\documents\visual studio 2017\Projects\Workshop\1. Feathers\bin\Debug\_1.Feathers.exe.config
+c:\users\kiro_eli\documents\visual studio 2017\Projects\Workshop\1. Feathers\bin\Debug\_1.Feathers.exe
+c:\users\kiro_eli\documents\visual studio 2017\Projects\Workshop\1. Feathers\bin\Debug\_1.Feathers.pdb
+c:\users\kiro_eli\documents\visual studio 2017\Projects\Workshop\1. Feathers\obj\Debug\1. Feathers.csprojResolveAssemblyReference.cache
+c:\users\kiro_eli\documents\visual studio 2017\Projects\Workshop\1. Feathers\obj\Debug\_1.Feathers.exe
+c:\users\kiro_eli\documents\visual studio 2017\Projects\Workshop\1. Feathers\obj\Debug\_1.Feathers.pdb
