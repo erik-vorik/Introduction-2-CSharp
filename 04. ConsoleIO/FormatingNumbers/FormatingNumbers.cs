@@ -50,3 +50,16 @@ namespace FormatingNumbers
         }
     }
 }
+//using System;
+
+//    class Program
+//{
+//    static void Main()
+//    {
+//        int a = int.Parse(Console.ReadLine());
+//        float b = float.Parse(Console.ReadLine());
+//        float c = float.Parse(Console.ReadLine());
+//        Console.WriteLine("{0,-10:x}{1}{2,10:f2}{3,-10:f3}", a, Convert.ToString(a, 2).PadLeft(10, '0'), b, c);
+//    }
+//}
+

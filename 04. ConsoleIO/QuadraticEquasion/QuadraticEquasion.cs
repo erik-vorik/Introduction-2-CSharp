@@ -14,7 +14,6 @@ namespace QuadraticEquasion
             double b = double.Parse(Console.ReadLine());
             double c = double.Parse(Console.ReadLine());
             double x;
-
             if (a == 0)
             {
                 Console.WriteLine("коефициента 'а' не може да е 0");
@@ -34,9 +33,6 @@ namespace QuadraticEquasion
                     }
                     else
                         Console.WriteLine("x={0}", -b / 2 * a);
-
-
-
                 }
                 Console.Read();
             }
@@ -49,3 +45,39 @@ namespace QuadraticEquasion
         }
     }
 }
+//using System;
+
+//    class Program
+//{
+//    static void Main()
+//    {
+//        double a = double.Parse(Console.ReadLine());
+//        double b = double.Parse(Console.ReadLine());
+//        double c = double.Parse(Console.ReadLine());
+//        double D = (b * b) - 4 * a * c;
+//        if (D < 0)
+//        {
+//            Console.WriteLine("no real roots");
+//        }
+//        else if (D == 0)
+//        {
+//            Console.WriteLine("{0:f2}", -b / (2 * a));
+//        }
+//        else if (D > 0)
+//        {
+//            double x1 = (-b + Math.Sqrt(D)) / (2 * a);
+//            double x2 = (-b - Math.Sqrt(D)) / (2 * a);
+//            if (x1 < x2)
+//            {
+//                Console.WriteLine("{0:f2}\n{1:f2}", x1, x2);
+//            }
+//            else
+//            {
+//                Console.WriteLine("{0:f2}\n{1:f2}", x2, x1);
+//            }
+//        }
+//    }
+
+//}
+
+

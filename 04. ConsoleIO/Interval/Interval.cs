@@ -35,9 +35,29 @@ namespace Interval
                     ;
                 }
             }
-
             Console.WriteLine("Числата делими на '5' без остатък са : \t {0}",j);
-
         }
     }
 }
+
+//using System;
+
+//class Program
+//{
+//    static void Main()
+//    {
+//        int n = int.Parse(Console.ReadLine());
+//        int m = int.Parse(Console.ReadLine());
+//        int count = 0;
+//        while (m - n > 1 && n >= 0 && m > 0)
+//        {
+//            n++;
+//            if (n % 5 == 0)
+//            {
+//                count++;
+//            }
+//        }
+//        Console.WriteLine(count);
+//    }
+//}
+

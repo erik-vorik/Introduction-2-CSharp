@@ -18,3 +18,16 @@ namespace Circle
         }
     }
 }
+//using System;
+
+//    class Program
+//{
+//    static void Main()
+//    {
+//        float r = float.Parse(Console.ReadLine());
+//        float circumference = (float)(2 * Math.PI * r);
+//        float area = (float)Math.PI * r * r;
+//        Console.WriteLine("{0:f2} {1:f2}", circumference, area);
+//    }
+//}
+

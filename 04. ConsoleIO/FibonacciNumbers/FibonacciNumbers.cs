@@ -41,3 +41,34 @@ namespace FibonacciNumbers
         }
     }
 }
+//using System;
+
+//class Program
+//{
+//    static void Main()
+//    {
+//        int n = int.Parse(Console.ReadLine());
+//        long a = 0;
+//        long b = 1;
+//        Console.Write(a);
+//        long member = b;
+//        for (int i = 0; i < n - 1; i++)
+//        {
+//            Console.Write(", ");
+//            Console.Write(member);
+//            member = a + b;
+//            if (a < b)
+//            {
+//                a = member;
+//            }
+//            else if (a > b)
+//            {
+//                b = member;
+//            }
+//            else if (a == b)
+//            {
+//                a = member;
+//            }
+//        }
+//    }
+//}
